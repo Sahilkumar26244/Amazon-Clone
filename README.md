@@ -1,70 +1,74 @@
-# Getting Started with Create React App
+# Amazon Clone
+## About Amazon
+- American multinational technology company focusing on e-commerce, cloud computing, online advertising, digital streaming, and artificial intelligence. It has been referred to as "one of the most influential economic and cultural forces in the world", and is one of the world's most valuable brands.
+- Amazon also distributes a variety of downloadable and streaming content through its Amazon Prime Video, Amazon Music, Twitch, and Audible units. It publishes books through its publishing arm, Amazon Publishing, film and television content through Amazon Studios, and has been the owner of film and television studio Metro-Goldwyn-Mayer since March 2022.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## About Project 
+This is a individual project and i am done this within in 1 day.
 
-## Available Scripts
+## Installing and Running
 
-In the project directory, you can run:
+Executing the commands mentioned below one by one in your command line will help in making this React app .
+**Cloning**
 
-### `npm start`
+```
+https://github.com/Sahilkumar26244/Amazon2
+cd ./Amazon2
+npm install
+```
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**To run the react app execute below command**
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+```
+npm run start
+```
+## Deployment Link
+[Live Netlify Link](https://legendary-sprite-7718cd.netlify.app/)
 
-### `npm test`
+## Techs We Use
+- `HTML`
+- `CSS`
+- `JS`
+- `React`
+- `Firebase`
+- `Material Ui`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Features
+- Sin In Through EmailId and password 
+- Add your products to cart page
+- Remove your products from cart page
+- Payment page
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Some Snip Shot Of Our Site 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## HomePage
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![HomePage](![Screenshot (55)](![Screenshot (55)](https://user-images.githubusercontent.com/100782217/201828130-23d60d61-604d-47c7-acf7-645b6036fe3d.png)))
 
-### `npm run eject`
+___
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Products Section
+![Products](![Screenshot (56)](https://user-images.githubusercontent.com/100782217/201828249-31b89512-304d-4037-a196-73cffd382528.png))
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+___
+## Sign In Page
+![SignIn](![Screenshot (57)](https://user-images.githubusercontent.com/100782217/201828317-f06a4424-3dcc-4ae0-ac03-12eb1dc2e6ec.png))
+___
+## Cart Page
+![Cart Page](![Screenshot (58)](https://user-images.githubusercontent.com/100782217/201828391-2700f74c-bce5-4452-af6d-33a73ba36d3e.png))
+___
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Remove Item from Cart
+![Cart Remove](![Screenshot (59)](https://user-images.githubusercontent.com/100782217/201828477-03f28151-662b-47dc-9c3d-9cf338a3ff82.png))
+___
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🔗 Individual Project
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+ 2. Sahil Kumar
 
-### Code Splitting
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Sahilkumar26244)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-kumar-923694233/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
