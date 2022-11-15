@@ -44,23 +44,23 @@ npm run start
 
 ## HomePage
 
-![HomePage](![Screenshot (55)](![Screenshot (55)](https://user-images.githubusercontent.com/100782217/201828130-23d60d61-604d-47c7-acf7-645b6036fe3d.png)))
+![Screenshot (55)](https://user-images.githubusercontent.com/100782217/201828130-23d60d61-604d-47c7-acf7-645b6036fe3d.png)
 
 ___
 
 ## Products Section
-![Products](![Screenshot (56)](https://user-images.githubusercontent.com/100782217/201828249-31b89512-304d-4037-a196-73cffd382528.png))
+![Screenshot (56)](https://user-images.githubusercontent.com/100782217/201828249-31b89512-304d-4037-a196-73cffd382528.png)
 
 ___
 ## Sign In Page
-![SignIn](![Screenshot (57)](https://user-images.githubusercontent.com/100782217/201828317-f06a4424-3dcc-4ae0-ac03-12eb1dc2e6ec.png))
+![Screenshot (57)](https://user-images.githubusercontent.com/100782217/201828317-f06a4424-3dcc-4ae0-ac03-12eb1dc2e6ec.png)
 ___
 ## Cart Page
-![Cart Page](![Screenshot (58)](https://user-images.githubusercontent.com/100782217/201828391-2700f74c-bce5-4452-af6d-33a73ba36d3e.png))
+![Screenshot (58)](https://user-images.githubusercontent.com/100782217/201828391-2700f74c-bce5-4452-af6d-33a73ba36d3e.png)
 ___
 
 ## Remove Item from Cart
-![Cart Remove](![Screenshot (59)](https://user-images.githubusercontent.com/100782217/201828477-03f28151-662b-47dc-9c3d-9cf338a3ff82.png))
+![Screenshot (59)](https://user-images.githubusercontent.com/100782217/201828477-03f28151-662b-47dc-9c3d-9cf338a3ff82.png)
 ___
 
 
